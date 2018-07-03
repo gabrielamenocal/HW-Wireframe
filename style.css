@@ -26,7 +26,7 @@ body{
 
 #left{
     background-color: #ebebeb;
-    width: 49%;
+    width: 59%;
     margin: 1px 1px 20px 0px;
     text-align: center;
     float: left;
@@ -38,7 +38,7 @@ body{
 
 #right{
     background-color: #ebebeb;
-    width: 49%;
+    width: 40%;
     margin: 1px 0px 1px 1px;
     text-align: center;
     float: right;
